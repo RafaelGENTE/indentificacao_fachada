@@ -1,1 +1,1 @@
-Classificação de Fachadas de Edificações
+Classificação de Fachadas de Edificações.
