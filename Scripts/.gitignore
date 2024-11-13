@@ -87,3 +87,11 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# Ignorar ambientes virtuais comuns
+venv/
+env/
+.venv/
+
+# Ignorar bibliotecas instaladas em ambiente local
+Lib/site-packages/
