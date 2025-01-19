@@ -1,8 +1,16 @@
-# Projeto de Detecção de Fachadas
+# CLASSIFICAÇÃO DE DIFERENTES TIPOS DE USOS DE EDIFICAÇÕES URBANAS: UMA ABORDAGEM POR APRENDIZADO PROFUNDO E IMAGENS 360°
 
-Este repositório contém notebooks para um projeto de detecção e classificação de fachadas em imagens. O projeto envolve três etapas principais: extração das imagens, treinamento de modelos e teste dos modelos. Siga a ordem abaixo para garantir o funcionamento adequado do pipeline.
 
-## Estrutura do Projeto
+Este repositório contém os códigos, os dados e os principais resultados do TCC intitulado “CLASSIFICAÇÃO DE DIFERENTES TIPOS DE USOS DE EDIFICAÇÕES URBANAS: UMA ABORDAGEM POR APRENDIZADO PROFUNDO E IMAGENS 360°”.
+
+* Discente: Rafael Antunes Pereira
+* Orientador: Prof. Darlan Miranda Nunes
+
+O Fluxograma seguinte ilustra o processo completo da metodologia proposta:
+![medologia para classificação de diferentes tipos de edificações em imagens 360º](Figs/fluxograma_330dpi.png)
+
+
+## Estrutura de pastas
 
 1. **Extracao_Imagens.ipynb** - Este notebook realiza a extração das imagens necessárias para o treinamento e teste dos modelos. Certifique-se de executá-lo primeiro para obter os dados de imagem essenciais.
 
