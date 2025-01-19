@@ -7,7 +7,7 @@ Este repositório contém os códigos, os dados e os principais resultados do TC
 * Orientador: Prof. Darlan Miranda Nunes
 
 O Fluxograma seguinte ilustra o processo completo da metodologia proposta:
-![medologia para classificação de diferentes tipos de edificações em imagens 360º](Figs/fluxograma_330dpi.png)
+![medologia para classificação de diferentes tipos de edificações em imagens 360º](fluxograma_330dpi.png)
 
 
 ## Estrutura de pastas
